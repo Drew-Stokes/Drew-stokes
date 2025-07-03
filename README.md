@@ -1,4 +1,4 @@
-<h1>Hi, I'm Drew, an <a href="https://www.linkedin.com/in/andrew-l-stokes/">Cyber Security Professional</a>☺</h1>
+<h1>Hi, I'm Drew, a <a href="https://www.linkedin.com/in/andrew-l-stokes/">Cyber Security Professional</a>☺</h1>
 
 # <a href="https://www.linkedin.com/in/andrew-l-stokes/">Drew Stokes</a>'s IT and Cybersecurity Project Portfolio 🔐
 
